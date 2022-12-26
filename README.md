@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<html>
+  <body>
+    
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="naman-bhatt-958133171" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/naman-bhatt-958133171?trk=profile-badge">Naman Bhatt</a></div>
-              
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="naman-bhatt-958133171" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/naman-bhatt-958133171?trk=profile-badge">Naman Bhatt</a></d>
+  </body>
+</html>  
