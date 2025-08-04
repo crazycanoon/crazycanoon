@@ -36,19 +36,19 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crazycanoon&show_icons=true&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycanoon&layout=compact&theme=radical&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=crazycanoon&theme=radical&hide_border=true" height="180em" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/crazycanoon/crazycanoon/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
