@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Naman Bhatt  
 
-💻 **Software Developer in the Making** | ☁️ **Cloud & DevOps Enthusiast** | 🤖 **AI/ML Explorer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9F7&width=600&lines=Software+Developer;Cloud+%26+DevOps+Enthusiast;AI%2FML+Learner;Always+Learning+%26+Building)](https://git.io/typing-svg)  
 
 ---
 
 ### 🚀 About Me
 - 🌱 Currently learning **Linux Internals, DSA, and DevOps**  
 - ⚡ Strong foundation in **C++ & Python**  
-- 🔭 Exploring **Cloud (AWS, Docker, Kubernetes, Terraform)** and **System Programming**  
-- 🎯 Goal: Become a **versatile developer** who can build at scale  
+- ☁️ Exploring **AWS, Docker, Kubernetes, Terraform**  
+- 🤖 Enthusiastic about **AI/ML projects & Open Source**  
 
 ---
 
@@ -27,15 +27,21 @@
 ---
 
 ### 📌 Featured Projects
-🔹 **[Flask Menu-Based Project](#)** – Portfolio + AWS automation + ML tasks + Docker & Kubernetes integration  
-🔹 **[Streamlit Q&A App](#)** – Q&A web app using Hugging Face models  
-🔹 **[Linux Systems & Networking](#)** – Projects on multithreading, drivers, and OS internals  
+- 🔹 **[Flask Menu-Based Project](#)** – Portfolio + AWS automation + ML tasks + Docker & Kubernetes integration  
+- 🔹 **[Streamlit Q&A App](#)** – Q&A web app using Hugging Face models  
+- 🔹 **[Linux Systems & Networking](#)** – Projects on multithreading, drivers, and OS internals  
 
 ---
 
 ### 📊 GitHub Stats
-![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazycanoon&show_icons=true&theme=tokyonight)  
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)  
+
+---
+
+### 🐍 Contribution Snake  
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
@@ -46,22 +52,6 @@
 
 ---
 
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)  
+
 ⭐️ *Always learning, always building!*  
-
-<!--
-**crazycanoon/crazycanoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<html>
-  <body>
-    
