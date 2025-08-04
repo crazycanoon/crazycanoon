@@ -53,6 +53,10 @@
 
 ---
 
+### 🏅 Certifications  
+[![AWS Cloud Quest: Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Quest-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+
+
 ### 🌐 Connect with Me  
 
 <p align="center">
