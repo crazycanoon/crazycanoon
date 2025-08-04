@@ -48,8 +48,8 @@
 
 ### 🐍 Contribution Snake  
 <p align="center">
-  <!--  <img src="https://github.com/crazycanoon/crazycanoon/blob/output/snake.svg" alt="snake gif" />  -->
-  ![Snake animation](https://github.com/yourusername/yourusername/blob/output/snake.svg)
+  <img src="https://github.com/crazycanoon/crazycanoon/blob/output/snake.svg" alt="snake gif" /> 
+  <!--  ![Snake animation](https://github.com/yourusername/yourusername/blob/output/snake.svg) -->
 </p>
 
 ---
