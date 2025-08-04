@@ -1,57 +1,72 @@
-# Hi there 👋, I'm Naman Bhatt  
+<!-- Naman Bhatt GitHub Profile README -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9F7&width=600&lines=Software+Developer;Cloud+%26+DevOps+Enthusiast;AI%2FML+Learner;Always+Learning+%26+Building)](https://git.io/typing-svg)  
+<h1 align="center">Hey 👋, I'm <span style="color:#00C9F7;">Naman Bhatt</span></h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9F7&center=true&vCenter=true&width=600&lines=Software+Developer;Cloud+%26+DevOps+Enthusiast;AI%2FML+Explorer;Always+Learning+%26+Building">
+  </a>
+</p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **Linux Internals, DSA, and DevOps**  
-- ⚡ Strong foundation in **C++ & Python**  
-- ☁️ Exploring **AWS, Docker, Kubernetes, Terraform**  
-- 🤖 Enthusiastic about **AI/ML projects & Open Source**  
+### 🌌 About Me  
+💻 Passionate about **Software Development** & **Cloud Technologies**  
+⚡ Strong in **C++ | Python | Linux Internals | System Design**  
+🚀 Exploring **DevOps (AWS, Docker, Kubernetes, Terraform, Jenkins)**  
+🤖 Interested in **AI/ML + Open Source**  
 
 ---
 
 ### 🛠️ Tech Stack  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,linux,aws,docker,kubernetes,terraform,jenkins,git,flask,streamlit&perline=6" />
+</p>
 
 ---
 
-### 📌 Featured Projects
-- 🔹 **[Flask Menu-Based Project](#)** – Portfolio + AWS automation + ML tasks + Docker & Kubernetes integration  
-- 🔹 **[Streamlit Q&A App](#)** – Q&A web app using Hugging Face models  
-- 🔹 **[Linux Systems & Networking](#)** – Projects on multithreading, drivers, and OS internals  
+### 🚀 Featured Projects  
+📌 **[Flask Menu-Based Project](#)** → Portfolio + AWS automation + ML tasks + Docker & K8s integration  
+📌 **[Streamlit Q&A App](#)** → Q&A web app using Hugging Face models  
+📌 **[Linux Systems & Networking](#)** → Multithreading, drivers, OS internals projects  
 
 ---
 
-### 📊 GitHub Stats
-![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazycanoon&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crazycanoon&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=crazycanoon&theme=tokyonight&hide_border=true)  
+### 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true" height="180em" />
+</p>
 
 ---
 
 ### 🐍 Contribution Snake  
-![Snake animation](https://github.com/crazycanoon/crazycanoon/blob/output/github-contribution-grid-snake.svg)  
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#href=http://naman.bio)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
 
-⭐️ *Always learning, always building!*  
+---
+
+<h3 align="center">⚡ Always Learning • Always Building ⚡</h3>
