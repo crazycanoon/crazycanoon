@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=crazycannon&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
