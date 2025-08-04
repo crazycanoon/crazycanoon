@@ -48,7 +48,7 @@
 
 ### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/crazycanoon/crazycanoon/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/crazycanoon/crazycanoon/blob/output/snake.svg" alt="snake gif" />
 </p>
 
 ---
