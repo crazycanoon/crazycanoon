@@ -34,20 +34,20 @@
 ---
 
 ### 📊 GitHub Stats
-![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)  
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazycanoon&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crazycanoon&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=crazycanoon&theme=tokyonight&hide_border=true)  
 
 ---
 
 ### 🐍 Contribution Snake  
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/crazycanoon/crazycanoon/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#http://naman.bio)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
 
 ---
